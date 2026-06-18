@@ -69,4 +69,11 @@ curl -X POST http://localhost:3000/api/v1/statutory/contributions \
   -d '{"countryCode":"US","financialYear":"2025","grossMonthly":10000}'
 ```
 
+## Postman Collection
+
+```bash
+#Link:
+https://anshulj31-9637548.postman.co/workspace/Anshul-jain's-Workspace~9736d29f-8547-4d84-8889-14a56a445cff/collection/55531051-1b73b468-365b-443b-85e8-0107e8ca04b5?sideView=agentMode
+```
+
 Every payroll response includes `employerContributions` and `employerCostSummary`.
